@@ -12,8 +12,8 @@ Desafios
 
     
 
-    Criar uma função que recebe três números como parâmetros e retorna a média deles.
+    
 
-    Criar uma função que recebe dois números como parâmetros e retorna o maior deles.
+   
 
-    Criar uma função que recebe um número como parâmetro e retorna o resultado da multiplicação desse número por ele mesmo
+    
